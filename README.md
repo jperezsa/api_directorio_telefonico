@@ -1,11 +1,9 @@
 # API Rest Directorio Telefónico  
 
-_Gestión de teléfonos de contactos e información de contacto de personas._
+_Agenda de telefonos e información de personas._
 
 
 ## Construido con 
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [NodeJS](https://nodejs.org/en/) - _Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine._
 * [Loopback](https://loopback.io/) - _The Node.js API Framework_
@@ -14,7 +12,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Wiki 
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/jperezsa/api_directorio_telefonico/wiki)
 
 
 ## Autor 
