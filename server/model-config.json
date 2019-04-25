@@ -35,7 +35,7 @@
     "dataSource": "db",
     "public": false
   },
-  "client": {
+  "Client": {
     "dataSource": "mongoDS",
     "public": true
   }
